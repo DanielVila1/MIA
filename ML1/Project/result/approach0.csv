@@ -1,0 +1,2 @@
+approach,model,trainAcc,valAcc,testAcc,trainFS,valFS,testFS,trainPPV,valPPV,testPPV,trainRec,valRec,testRec
+approach0,DT_5,0.835,0.834,0.901,0.657,0.656,0.602,0.695,0.694,0.585,0.644,0.644,0.633
